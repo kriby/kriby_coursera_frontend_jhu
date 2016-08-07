@@ -1,0 +1,16 @@
+.navbar-default, .container {
+    background-color: gray;
+    font-family: "Comic Sans MS";
+    color: black;
+}
+.navbar-default .navbar-brand, .icon-bar {
+    color: black;
+}
+h1 {
+    font-family: "Comic Sans MS";
+    color: black;
+}
+h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+}
